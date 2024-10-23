@@ -82,12 +82,12 @@
         },
 
         {
-            "label": "build-prepare-Learning02",
+            "label": "build-preparar-Aprendizagem02",
             "command": "dotnet",
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/prepare/Learning02/Learning02.csproj",
+                "${workspaceFolder}/preparar/Aprendizagem02/Aprendizagem02.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -95,12 +95,12 @@
         },
 
         {
-            "label": "build-prepare-Learning03",
+            "label": "build-preparar-Aprendizagem03",
             "command": "dotnet",
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/prepare/Learning03/Learning03.csproj",
+                "${workspaceFolder}/preparar/Aprendizagem03/Aprendizagem03.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -108,12 +108,12 @@
         },
 
         {
-            "label": "build-prepare-Learning05",
+            "label": "build-preparar-Aprendizagem05",
             "command": "dotnet",
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/prepare/Learning05/Learning05.csproj",
+                "${workspaceFolder}/preparar/Aprendizagem05/Aprendizagem05.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -121,12 +121,12 @@
         },
 
         {
-            "label": "build-prepare-Learning06",
+            "label": "build-preparar-Aprendizagem06",
             "command": "dotnet",
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/prepare/Learning06/Learning06.csproj",
+                "${workspaceFolder}/preparar/Aprendizagem06/Aprendizagem06.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -134,12 +134,12 @@
         },
 
         {
-            "label": "build-prove-Develop02",
+            "label": "build-provar-Desenvolver02",
             "command": "dotnet",
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/prove/Develop02/Develop02.csproj",
+                "${workspaceFolder}/provar/Desenvolver02/Desenvolver02.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -147,12 +147,12 @@
         },
 
         {
-            "label": "build-prove-Develop03",
+            "label": "build-provar-Desenvolver03",
             "command": "dotnet",
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/prove/Develop03/Develop03.csproj",
+                "${workspaceFolder}/provar/Desenvolver03/Desenvolver03.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -160,12 +160,12 @@
         },
 
         {
-            "label": "build-prove-Develop05",
+            "label": "build-provar-Desenvolver05",
             "command": "dotnet",
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/prove/Develop05/Develop05.csproj",
+                "${workspaceFolder}/provar/Desenvolver05/Desenvolver05.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -173,12 +173,12 @@
         },
 
         {
-            "label": "build-prove-Develop06",
+            "label": "build-provar-Desenvolver06",
             "command": "dotnet",
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/prove/Develop06/Develop06.csproj",
+                "${workspaceFolder}/provar/Desenvolver06/Desenvolver06.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -186,12 +186,12 @@
         },
 
         {
-            "label": "build-foundation-Foundation1",
+            "label": "build-fundamentos-Fundamentos1",
             "command": "dotnet",
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/foundation/Foundation1/Foundation1.csproj",
+                "${workspaceFolder}/fundamentos/Fundamentos1/Fundamentos1.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -199,12 +199,12 @@
         },
 
         {
-            "label": "build-foundation-Foundation2",
+            "label": "build-fundamentos-Fundamentos2",
             "command": "dotnet",
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/foundation/Foundation2/Foundation2.csproj",
+                "${workspaceFolder}/fundamentos/Fundamentos2/Fundamentos2.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -212,12 +212,12 @@
         },
 
         {
-            "label": "build-foundation-Foundation3",
+            "label": "build-fundamentos-Fundamentos3",
             "command": "dotnet",
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/foundation/Foundation3/Foundation3.csproj",
+                "${workspaceFolder}/fundamentos/Fundamentos3/Fundamentos3.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],

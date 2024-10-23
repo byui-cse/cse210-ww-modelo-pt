@@ -3,37 +3,37 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "prepare", "prepare", "{A347ABA8-4B01-4F25-995B-92BDE789C516}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "preparar", "preparar", "{A347ABA8-4B01-4F25-995B-92BDE789C516}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Learning02", "prepare\Learning02\Learning02.csproj", "{4981487C-7015-4DE1-8493-4D11E34F6AC3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aprendizagem02", "preparar\Aprendizagem02\Aprendizagem02.csproj", "{4981487C-7015-4DE1-8493-4D11E34F6AC3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Learning05", "prepare\Learning05\Learning05.csproj", "{F361D979-53F4-4010-ABA8-635F47045B71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aprendizagem05", "preparar\Aprendizagem05\Aprendizagem05.csproj", "{F361D979-53F4-4010-ABA8-635F47045B71}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "learning06", "prepare\learning06\learning06.csproj", "{42E0E23C-2BAB-4310-A775-7E30C43698A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "aprendizagem06", "preparar\aprendizagem06\aprendizagem06.csproj", "{42E0E23C-2BAB-4310-A775-7E30C43698A2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Learning03", "prepare\Learning03\Learning03.csproj", "{EB7DB472-CD2F-420F-B3CC-B720D7C5D135}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aprendizagem03", "preparar\Aprendizagem03\Aprendizagem03.csproj", "{EB7DB472-CD2F-420F-B3CC-B720D7C5D135}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "prove", "prove", "{04A67DA6-A1E6-4000-906E-72A418F39C18}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "provar", "provar", "{04A67DA6-A1E6-4000-906E-72A418F39C18}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Develop03", "prove\Develop03\Develop03.csproj", "{AFFAAD66-FDF7-4DE6-9E71-66AD53DC0042}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Desenvolver03", "provar\Desenvolver03\Desenvolver03.csproj", "{AFFAAD66-FDF7-4DE6-9E71-66AD53DC0042}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Develop06", "prove\Develop06\Develop06.csproj", "{6D6C1E65-1683-49C1-AD3A-5CD9C4154FF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Desenvolver06", "provar\Desenvolver06\Desenvolver06.csproj", "{6D6C1E65-1683-49C1-AD3A-5CD9C4154FF0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Develop05", "prove\Develop05\Develop05.csproj", "{0F2D82D9-8618-4EF5-A14A-DAE8BFAC4C75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Desenvolver05", "provar\Desenvolver05\Desenvolver05.csproj", "{0F2D82D9-8618-4EF5-A14A-DAE8BFAC4C75}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Develop02", "prove\Develop02\Develop02.csproj", "{BD86BBD7-C828-42D9-8D31-F4B36C3301D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Desenvolver02", "provar\Desenvolver02\Desenvolver02.csproj", "{BD86BBD7-C828-42D9-8D31-F4B36C3301D3}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sandbox", "sandbox", "{7F6D74C0-7996-48A8-BD52-0E7C6630273B}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sandbox", "sandbox\Sandbox\Sandbox.csproj", "{716AD7D8-8469-4B2C-8BF2-4CBDEA6425D0}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "foundation", "foundation", "{473BF896-AF2B-42A8-99A4-518444F424E5}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "fundamentos", "fundamentos", "{473BF896-AF2B-42A8-99A4-518444F424E5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Foundation1", "foundation\Foundation1\Foundation1.csproj", "{88F2F63A-19BA-4BCF-9E5F-73FE4E6D2C34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fundamentos1", "fundamentos\Fundamentos1\Fundamentos1.csproj", "{88F2F63A-19BA-4BCF-9E5F-73FE4E6D2C34}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Foundation3", "foundation\Foundation3\Foundation3.csproj", "{DB93714A-2F9B-4581-A2C1-96B97C11C717}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fundamentos3", "fundamentos\Fundamentos3\Fundamentos3.csproj", "{DB93714A-2F9B-4581-A2C1-96B97C11C717}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Foundation2", "foundation\Foundation2\Foundation2.csproj", "{43C43DB3-5A49-4029-8E3F-820010337BA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fundamentos2", "fundamentos\Fundamentos2\Fundamentos2.csproj", "{43C43DB3-5A49-4029-8E3F-820010337BA4}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "csharp-prep", "csharp-prep", "{17D95707-7BD5-4BEB-9B50-FDB869C2F355}"
 EndProject
