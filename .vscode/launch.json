@@ -82,7 +82,7 @@
         },
 
         {
-            "name": "Aprendizagem 02 (Resume)",
+            "name": "Aprendizagem 02 (Curriculo)",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build-preparar-Aprendizagem02",
@@ -95,7 +95,7 @@
         },
 
         {
-            "name": "Aprendizagem 03 (Fraction)",
+            "name": "Aprendizagem 03 (Fracao)",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build-preparar-Aprendizagem03",
@@ -108,7 +108,7 @@
         },
 
         {
-            "name": "Aprendizagem 05 (Homework)",
+            "name": "Aprendizagem 05 (Tarefa de Casa)",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build-preparar-Aprendizagem05",
@@ -121,7 +121,7 @@
         },
 
         {
-            "name": "Aprendizagem 06 (Shapes)",
+            "name": "Aprendizagem 06 (Figuras Geometricas)",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build-preparar-Aprendizagem06",
@@ -134,7 +134,7 @@
         },
 
         {
-            "name": "Desenvolver 02 (Journal)",
+            "name": "Desenvolver 02 (Diario)",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build-provar-Desenvolver02",
@@ -147,7 +147,7 @@
         },
 
         {
-            "name": "Desenvolver 03 (Scripture Memorizer)",
+            "name": "Desenvolver 03 (Memorizador de Escrituras)",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build-provar-Desenvolver03",
@@ -160,7 +160,7 @@
         },
 
         {
-            "name": "Desenvolver 05 (Mindfulness)",
+            "name": "Desenvolver 05 (Introspeccao)",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build-provar-Desenvolver05",
@@ -173,7 +173,7 @@
         },
 
         {
-            "name": "Desenvolver 06 (Goal Tracker)",
+            "name": "Desenvolver 06 (Gerenciador de Metas)",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build-provar-Desenvolver06",
@@ -199,7 +199,7 @@
         },
 
         {
-            "name": "Fundamentos 2 (Products)",
+            "name": "Fundamentos 2 (Produtos)",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build-fundamentos-Fundamentos2",
@@ -212,7 +212,7 @@
         },
 
         {
-            "name": "Fundamentos 3 (Exercise)",
+            "name": "Fundamentos 3 (Exercicios)",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build-fundamentos-Fundamentos3",
