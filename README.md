@@ -1,10 +1,10 @@
 # cse210-ww-modelo-pt
-This is the starter code for students in the worldwide content version of CSE 210.
+Este é o código inicial para os alunos da versão mundial do conteúdo do CSE 210.
 
-This repository contains the starter code for many different projects. They are arranged as follows:
+Este repositório contém o código inicial para vários projetos diferentes. Eles estão organizados da seguinte forma:
 
-* `sandbox` - An empty project that you can use to play around with any concepts you like.
-* `csharp-prep` - Starter projects for each of the C# Prep assignments.
-* `preparar` - Starter projects for each of the preparation Aprendizagem Activities.
-* `provar` - Starter projects for each of the provar Desenvolver projects.
-* `fundamentos` - Starter projects for fundamentos projects.
+* `sandbox` - Um projeto vazio que você pode usar para experimentar qualquer conceito que desejar.
+* `csharp-prep` - Projetos iniciais para cada um dos projetos em Preparação.
+* `preparar` - Projetos iniciais para cada um dos projetos em Aprendizagem.
+* `provar` - Projetos iniciais para cada um dos projetos em Desenvolver.
+* `fundamentos` - Projetos iniciais para os projetos em Fundamentos.
