@@ -5,6 +5,6 @@ Este repositório contém o código inicial para vários projetos diferentes. El
 
 * `sandbox` - Um projeto vazio que você pode usar para experimentar qualquer conceito que desejar.
 * `csharp-prep` - Projetos iniciais para cada um dos projetos em Preparação.
-* `preparacao` - Projetos iniciais para cada um dos projetos em Aprendizagem.
+* `preparar` - Projetos iniciais para cada um dos projetos em Aprendizagem.
 * `provar` - Projetos iniciais para cada um dos projetos em Desenvolver.
 * `fundamentos` - Projetos iniciais para os projetos em Fundamentos.
