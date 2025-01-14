@@ -17,12 +17,12 @@
         },
 
         {
-            "label": "build-csharp-prep-Prep1",
+            "label": "build-semana01-Exercicio1",
             "command": "dotnet",
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/csharp-prep/Prep1/Prep1.csproj",
+                "${workspaceFolder}/semana01/Exercicio1/Exercicio1.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -30,12 +30,12 @@
         },
 
         {
-            "label": "build-csharp-prep-Prep2",
+            "label": "build-semana01-Exercicio2",
             "command": "dotnet",
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/csharp-prep/Prep2/Prep2.csproj",
+                "${workspaceFolder}/semana01/Exercicio2/Exercicio2.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -43,12 +43,12 @@
         },
 
         {
-            "label": "build-csharp-prep-Prep3",
+            "label": "build-semana01-Exercicio3",
             "command": "dotnet",
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/csharp-prep/Prep3/Prep3.csproj",
+                "${workspaceFolder}/semana01/Exercicio3/Exercicio3.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -56,12 +56,12 @@
         },
 
         {
-            "label": "build-csharp-prep-Prep4",
+            "label": "build-semana01-Exercicio4",
             "command": "dotnet",
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/csharp-prep/Prep4/Prep4.csproj",
+                "${workspaceFolder}/semana01/Exercicio4/Exercicio4.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -69,12 +69,12 @@
         },
 
         {
-            "label": "build-csharp-prep-Prep5",
+            "label": "build-semana01-Exercicio5",
             "command": "dotnet",
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/csharp-prep/Prep5/Prep5.csproj",
+                "${workspaceFolder}/semana01/Exercicio5/Exercicio5.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -82,12 +82,12 @@
         },
 
         {
-            "label": "build-preparar-Aprendizagem02",
+            "label": "build-semana02-Curriculo",
             "command": "dotnet",
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/preparar/Aprendizagem02/Aprendizagem02.csproj",
+                "${workspaceFolder}/semana02/Curriculo/Curriculo.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -95,12 +95,12 @@
         },
 
         {
-            "label": "build-preparar-Aprendizagem03",
+            "label": "build-semana02-Diario",
             "command": "dotnet",
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/preparar/Aprendizagem03/Aprendizagem03.csproj",
+                "${workspaceFolder}/semana02/Diario/Diario.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -108,12 +108,12 @@
         },
 
         {
-            "label": "build-preparar-Aprendizagem05",
+            "label": "build-semana03-Fracoes",
             "command": "dotnet",
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/preparar/Aprendizagem05/Aprendizagem05.csproj",
+                "${workspaceFolder}/semana03/Fracoes/Fracoes.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -121,12 +121,12 @@
         },
 
         {
-            "label": "build-preparar-Aprendizagem06",
+            "label": "build-semana03-MemorizadorEscrituras",
             "command": "dotnet",
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/preparar/Aprendizagem06/Aprendizagem06.csproj",
+                "${workspaceFolder}/semana03/MemorizadorEscrituras/MemorizadorEscrituras.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -134,12 +134,12 @@
         },
 
         {
-            "label": "build-provar-Desenvolver02",
+            "label": "build-semana04-VideosYouTube",
             "command": "dotnet",
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/provar/Desenvolver02/Desenvolver02.csproj",
+                "${workspaceFolder}/semana04/VideosYouTube/VideosYouTube.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -147,12 +147,12 @@
         },
 
         {
-            "label": "build-provar-Desenvolver03",
+            "label": "build-semana04-PedidosOnline",
             "command": "dotnet",
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/provar/Desenvolver03/Desenvolver03.csproj",
+                "${workspaceFolder}/semana04/PedidosOnline/PedidosOnline.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -160,12 +160,12 @@
         },
 
         {
-            "label": "build-provar-Desenvolver05",
+            "label": "build-semana05-Tarefas",
             "command": "dotnet",
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/provar/Desenvolver05/Desenvolver05.csproj",
+                "${workspaceFolder}/semana05/Tarefas/Tarefas.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -173,12 +173,12 @@
         },
 
         {
-            "label": "build-provar-Desenvolver06",
+            "label": "build-semana05-Introspeccao",
             "command": "dotnet",
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/provar/Desenvolver06/Desenvolver06.csproj",
+                "${workspaceFolder}/semana05/Introspeccao/Introspeccao.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -186,12 +186,12 @@
         },
 
         {
-            "label": "build-fundamentos-Fundamentos1",
+            "label": "build-semana06-Figuras",
             "command": "dotnet",
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/fundamentos/Fundamentos1/Fundamentos1.csproj",
+                "${workspaceFolder}/semana06/Figuras/Figuras.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -199,12 +199,12 @@
         },
 
         {
-            "label": "build-fundamentos-Fundamentos2",
+            "label": "build-semana06-MetasEternas",
             "command": "dotnet",
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/fundamentos/Fundamentos2/Fundamentos2.csproj",
+                "${workspaceFolder}/semana06/MetasEternas/MetasEternas.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -212,12 +212,12 @@
         },
 
         {
-            "label": "build-fundamentos-Fundamentos3",
+            "label": "build-semana07-MonitoramentoExercicios",
             "command": "dotnet",
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/fundamentos/Fundamentos3/Fundamentos3.csproj",
+                "${workspaceFolder}/semana07/MonitoramentoExercicios/MonitoramentoExercicios.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
